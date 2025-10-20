@@ -1,0 +1,31 @@
+name: spendsmart
+description: "A new Flutter project."
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.9.2
+
+dependencies:
+  flutter:
+    sdk: flutter
+    
+
+  # Firebase dependencies
+  firebase_core: ^3.3.0
+  cloud_firestore: ^5.2.0
+  firebase_auth: ^5.3.3
+  google_sign_in: ^6.2.1
+  fl_chart: ^0.68.0
+
+  # Icons and visuals
+  cupertino_icons: ^1.0.8
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true

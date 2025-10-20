@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "462324283491",
+    "project_id": "spendsmart-86973",
+    "storage_bucket": "spendsmart-86973.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:462324283491:android:4d086996983ea841376056",
+        "android_client_info": {
+          "package_name": "com.example.spend_smart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "462324283491-gtf37p7q8bq2av2ruc5f1iqib0ap87pe.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.spend_smart",
+            "certificate_hash": "bb7aeb4cb59fa2eef422ce5b2edcd301903f78fc"
+          }
+        },
+        {
+          "client_id": "462324283491-1etne73rqhcbegaqpe8a03cfso1k6hb5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQnZVDXnCO7oCjQzhh-RDlHONoO7C_AK4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "462324283491-1etne73rqhcbegaqpe8a03cfso1k6hb5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "462324283491-3pj3n5n9d0oiqh0aitvtupna7oq1l33s.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.spendSmart"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:462324283491:android:1c2b5fdbaec35b70376056",
+        "android_client_info": {
+          "package_name": "com.example.spendsmart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "462324283491-1etne73rqhcbegaqpe8a03cfso1k6hb5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQnZVDXnCO7oCjQzhh-RDlHONoO7C_AK4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "462324283491-1etne73rqhcbegaqpe8a03cfso1k6hb5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "462324283491-3pj3n5n9d0oiqh0aitvtupna7oq1l33s.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.spendSmart"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
